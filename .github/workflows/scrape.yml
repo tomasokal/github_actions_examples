@@ -29,4 +29,4 @@ jobs:
           git config --local user.email "actions@github.com"
           git add Output/*
           git commit -am "GH ACTION Autorun $(date)"
-          git push origin production 
+          git push origin main 
