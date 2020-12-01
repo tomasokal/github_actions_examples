@@ -1,0 +1,32 @@
+  
+name: script
+
+on:
+  schedule:
+    - cron:  '0 0 6 * * ?'
+jobs:
+
+  script:
+    
+    runs-on: macos-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+        
+      - name: Install packages
+        run: |
+          R -e 'install.packages("xml2")'
+          R -e 'install.packages("httr")'
+          R -e 'install.packages("rvest")'
+          
+      - name: Scrape
+        run: Rscript example_scrape.R
+      
+      - name: Commit files
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email "actions@github.com"
+          git add Output/*
+          git commit -am "GH ACTION Autorun $(date)"
+          git push origin production 
