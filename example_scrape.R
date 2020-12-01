@@ -22,12 +22,8 @@ projections_dfs <- projections_dfs[, c("v25", "v26", "v27") := tstrsplit(gsub2, 
 projections_dfs <- projections_dfs[, .(PLAYER = v25
                                        , POSITION = substr(gsub(".*\\((.*)\\).*", "\\1", v27), 1, 2)
                                        , TEAM = trimws(substr(gsub(".*\\((.*)\\).*", "\\1", v27), 4, nchar(gsub(".*\\((.*)\\).*", "\\1", v27))))
-                                       , POINTS_FD = as.numeric(gsub("[\\$,]","", v16))
                                        , POINTS_DK = as.numeric(gsub("[\\$,]","", v19))
-                                       , POINTS_YH = as.numeric(gsub("[\\$,]","", v22))
-                                       , SALARY_FD = as.numeric(gsub("[\\$,]","", v17))
-                                       , SALARY_DK = as.numeric(gsub("[\\$,]","", v20))
-                                       , SALARY_YH = as.numeric(gsub("[\\$,]","", v23)))]
+                                       , SALARY_DK = as.numeric(gsub("[\\$,]","", v20)))]
                                        
 # Export data 
-data.table::fwrite(projections_dfs, "Output/example_scrape_output.csv")                                     
+data.table::fwrite(projections_dfs, "Output/example_scrape_output.csv")                                  
