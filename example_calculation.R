@@ -3,7 +3,7 @@ library(lpSolve)
 library(data.table)
 
 # Import data 
-df_scraped <- data.table::fread(projections_dfs, "Output/example_scrape_output.csv")  
+df_scraped <- data.table::fread("Output/example_scrape_output.csv")  
 
 # Calculation
 
