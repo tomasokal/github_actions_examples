@@ -3,7 +3,7 @@ name: scrape
 
 on:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '*/5 * * * *'
 
 jobs:
   script:

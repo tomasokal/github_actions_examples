@@ -6,7 +6,6 @@ on:
     - cron:  '*/60 * * * *'
       
 jobs:
-
   script:
     
     runs-on: macos-latest
