@@ -1,9 +1,12 @@
 
 name: calculation
 
+#on:
+#  schedule:
+#    - cron:  '0 0 * * *'
 on:
-  schedule:
-    - cron:  '0 1 * * *'
+  push:
+    branches: main
 jobs:
 
   script:
@@ -17,6 +20,7 @@ jobs:
       - name: Install packages
         run: |
           R -e 'install.packages("data.table")'
+          R -e 'install.packages("lpSolve")'
           
       - name: Scrape
         run: Rscript example_calculation.R
