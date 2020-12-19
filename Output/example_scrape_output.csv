@@ -2,18 +2,18 @@ PLAYER,POSITION,TEAM,POINTS_DK,SALARY_DK
 Lamar Jackson,QB,BAL,23.98,7500
 Josh Allen,QB,BUF,24.06,7200
 Patrick Mahomes,QB,KC,26.45,7900
-Derrick Henry,RB,TEN,26.94,9500
+Derrick Henry,RB,TEN,27.2,9500
 Kyler Murray,QB,ARI,22.82,7000
 Deshaun Watson,QB,HOU,21.91,6800
 Aaron Rodgers,QB,GB,21.44,7800
 Russell Wilson,QB,SEA,20.08,7300
 Justin Herbert,QB,LAC,19.98,6900
+Ryan Tannehill,QB,TEN,19.89,6700
 Tom Brady,QB,TB,19.68,6600
 Jared Goff,QB,LA,20.06,6300
-Ryan Tannehill,QB,TEN,19.78,6700
 Dalvin Cook,RB,MIN,25.26,9000
 Derek Carr,QB,LV,19.34,5700
-Cam Newton,QB,NE,18.7,5500
+Cam Newton,QB,NE,18.66,5500
 Philip Rivers,QB,IND,18.55,5900
 Jalen Hurts,QB,PHI,18.77,5900
 Alvin Kamara,RB,NO,23.2,7400
@@ -52,10 +52,10 @@ DeAndre Hopkins,WR,ARI,18.58,7900
 Miles Sanders,RB,PHI,14.43,6900
 Clyde Edwards-Helaire,RB,KC,14.5,5800
 Travis Kelce,TE,KC,17.94,8000
-D'Andre Swift,RB,DET,14.94,6400
 Calvin Ridley,WR,ATL,17.52,8200
+D'Andre Swift,RB,DET,14.78,6400
+A.J. Brown,WR,TEN,15.96,7600
 David Montgomery,RB,CHI,13.73,7000
-A.J. Brown,WR,TEN,15.98,7600
 Wayne Gallman,RB,NYG,12.62,5600
 Allen Robinson,WR,CHI,16.9,7400
 Darren Waller,TE,LV,16.91,6900
@@ -82,13 +82,14 @@ Kareem Hunt,RB,CLE,11.47,5100
 Cole Beasley,WR,BUF,13.94,4700
 DeVante Parker,WR,MIA,13.55,5900
 Chris Godwin,WR,TB,13.82,6200
-Matthew Stafford,QB,DET,9.05,5800
 Jarvis Landry,WR,CLE,13.52,6400
-Marvin Jones,WR,DET,13.77,5700
+Matthew Stafford,QB,DET,8.91,5800
+Corey Davis,WR,TEN,13.18,5800
+Marvin Jones,WR,DET,13.72,5700
 La'Mical Perine,RB,NYJ,10.2,4000
-Corey Davis,WR,TEN,13.14,5800
 T.Y. Hilton,WR,IND,13.01,5500
 Nelson Agholor,WR,LV,12.59,5000
+Damien Harris,RB,NE,8.96,5100
 Amari Cooper,WR,DAL,13.58,6400
 Tyler Lockett,WR,SEA,13.3,6700
 Keke Coutee,WR,HOU,13.04,5300
@@ -106,14 +107,14 @@ Devin Singletary,RB,BUF,9.57,4100
 Jamaal Williams,RB,GB,8.96,4800
 Phillip Lindsay,RB,DEN,8.23,4000
 CeeDee Lamb,WR,DAL,11.63,4500
-T.J. Hockenson,TE,DET,11.65,5200
 Peyton Barber,RB,WSH,8.26,4400
+T.J. Hockenson,TE,DET,11.6,5200
+Jakobi Meyers,WR,NE,11.38,4600
 Latavius Murray,RB,NO,8.18,4700
-Jakobi Meyers,WR,NE,11.34,4600
 Hunter Henry,TE,LAC,11.21,4300
-Chase Daniel,QB,DET,7.47,5000
 Dallas Goedert,TE,PHI,11.21,3900
 JuJu Smith-Schuster,WR,PIT,11.58,6000
+Chase Daniel,QB,DET,7.39,5000
 Salvon Ahmed,RB,MIA,8.44,4700
 Chase Edmonds,RB,ARI,9.85,4400
 Sterling Shepard,WR,NYG,11.58,4700
@@ -131,14 +132,13 @@ Darius Slayton,WR,NYG,9.77,3900
 Tre'Quan Smith,WR,NO,9.36,3200
 Chase Claypool,WR,PIT,9.57,5900
 Noah Fant,TE,DEN,9.87,3800
-Damiere Byrd,WR,NE,9.97,3800
 Michael Gallup,WR,DAL,9.5,3500
-Danny Amendola,WR,DET,10.18,4200
+Damiere Byrd,WR,NE,9.97,3800
 Tyron Johnson,WR,LAC,9.53,3300
 Marquez Valdes-Scantling,WR,GB,8.81,4200
 Tim Patrick,WR,DEN,9.53,4300
+Danny Amendola,WR,DET,10.2,4200
 Denzel Mims,WR,NYJ,10.41,3500
-Sony Michel,RB,NE,6.74,4300
 Christian Kirk,WR,ARI,9.47,4300
 Allen Lazard,WR,GB,9.18,4100
 Kendrick Bourne,WR,SF,9.2,4100
@@ -153,12 +153,11 @@ Willie Snead,WR,BAL,9.02,4300
 Zach Ertz,TE,PHI,9.73,3400
 Eric Ebron,TE,PIT,8.95,4400
 Ito Smith,RB,ATL,6.75,4000
-James White,RB,NE,8.81,4500
 Logan Thomas,TE,WSH,9.23,4000
 Cordarrelle Patterson,RB,CHI,6.69,3000
 Anthony Miller,WR,CHI,8.81,3400
-Darnell Mooney,WR,CHI,8.67,3900
 Jonnu Smith,TE,TEN,8.44,3700
+Darnell Mooney,WR,CHI,8.67,3900
 Richie James,WR,SF,8.21,3600
 Tony Pollard,RB,DAL,6.73,5200
 Chad Hansen,WR,HOU,8.33,4200
@@ -172,11 +171,12 @@ Jordan Reed,TE,SF,8.81,3200
 Josh Reynolds,WR,LA,7.79,3700
 Jalen Guyton,WR,LAC,7.83,3000
 Breshad Perriman,WR,NYJ,8.18,3700
-N'Keal Harry,WR,NE,8.25,3300
 Laviska Shenault,WR,JAC,8.27,3800
 Larry Fitzgerald,WR,ARI,8.6,3300
 Golden Tate,WR,NYG,8.39,3500
+N'Keal Harry,WR,NE,8.12,3300
 Keelan Cole,WR,JAC,8.29,
+James White,RB,NE,8.14,4500
 Hayden Hurst,TE,ATL,8.21,3300
 K.J. Hamler,WR,DEN,7.37,3500
 Carlos Hyde,RB,SEA,5.56,5100
@@ -189,18 +189,18 @@ C.J. Prosise,RB,HOU,6.45,4000
 Dalton Schultz,TE,DAL,7.61,3200
 Greg Ward,WR,PHI,7.48,3000
 Mike Williams,WR,LAC,6.16,4800
-Damien Harris,RB,NE,4.62,5100
-Anthony Firkser,TE,TEN,6.69,2800
+Anthony Firkser,TE,TEN,6.68,2800
 A.J. Green,WR,CIN,6.62,3400
 Trey Burton,TE,IND,6.52,2900
+Sony Michel,RB,NE,4.75,4300
 Jakeem Grant,WR,MIA,6.84,3800
 Mecole Hardman,WR,KC,6.03,3400
 Cole Kmet,TE,CHI,6.7,3000
 David Moore,WR,SEA,5.94,3400
 Alfred Morris,RB,NYG,4.42,4000
 Tyler Eifert,TE,JAC,6.49,2900
-Adrian Peterson,RB,DET,4.32,4600
 Mack Hollins,WR,MIA,5.97,3500
+Adrian Peterson,RB,DET,4.25,4600
 James Washington,WR,PIT,5.5,3900
 Collin Johnson,WR,JAC,6.05,3200
 Darrell Henderson,RB,LA,4.19,4400
@@ -218,10 +218,10 @@ Boston Scott,RB,PHI,4.61,4800
 Mo Alie-Cox,TE,IND,4.92,2500
 Donovan Peoples-Jones,WR,CLE,4.98,3400
 Jacob Hollister,TE,SEA,5.36,2700
-Mohamed Sanu,WR,DET,5.34,3000
 Steven Sims,WR,WSH,5.3,3100
+Mohamed Sanu,WR,DET,5.34,3000
 Dan Arnold,TE,ARI,4.78,3500
-Quintez Cephus,WR,DET,4.97,3400
+Quintez Cephus,WR,DET,4.98,3400
 DaeSean Hamilton,WR,DEN,5.13,3000
 Dawson Knox,TE,BUF,4.72,2800
 Scotty Miller,WR,TB,4.56,3200
@@ -236,8 +236,8 @@ Will Dissly,TE,SEA,4.19,2900
 Ke'Shawn Vaughn,RB,TB,3.47,4000
 Giovani Bernard,RB,CIN,4.04,4500
 Brandon Powell,WR,ATL,4.32,3000
+Jeremy McNichols,RB,TEN,3.14,4000
 Trenton Cannon,RB,CAR,3.99,4000
-Jeremy McNichols,RB,TEN,3.13,4000
 Laquon Treadwell,WR,ATL,4.27,3000
 Marquez Callaway,WR,NO,4.03,3000
 Durham Smythe,TE,MIA,4.09,3000
@@ -246,11 +246,11 @@ Jalen Richard,RB,LV,3.34,4000
 Jaylen Samuels,RB,PIT,3.24,4000
 Marcus Johnson,WR,IND,3.6,3000
 Chad Beebe,WR,MIN,3.62,3000
+Geoff Swaim,TE,TEN,3.79,2500
 Benny Snell Jr.,RB,PIT,2.59,4400
-Jamal Agnew,WR,DET,3.62,3000
-Geoff Swaim,TE,TEN,3.74,2500
+Jamal Agnew,WR,DET,3.61,3000
 David Njoku,TE,CLE,3.43,2500
-Gunner Olszewski,WR,NE,3.4,3000
+Gunner Olszewski,WR,NE,3.41,3000
 Adam Shaheen,TE,MIA,3.62,3300
 Trent Taylor,WR,SF,3.62,3000
 Equanimeous St. Brown,WR,GB,3.39,3000
@@ -261,10 +261,10 @@ KeeSean Johnson,WR,ARI,3.36,3000
 Isaiah McKenzie,WR,BUF,3.48,3000
 Chris Conley,WR,JAC,3.37,3000
 Lamar Miller,RB,WSH,2.66,
-Kerryon Johnson,RB,DET,2.72,4000
-Foster Moreau,TE,LV,3.08,2500
 Kalif Raymond,WR,TEN,3.12,3000
+Foster Moreau,TE,LV,3.08,2500
 Rodney Smith,RB,CAR,2.69,4000
+Kerryon Johnson,RB,DET,2.71,4000
 Devin Duvernay,WR,BAL,3.05,3200
 Isaiah Wright,WR,WSH,3.18,3000
 Samaje Perine,RB,CIN,2.19,4300
@@ -293,15 +293,14 @@ Joshua Kelley,RB,LAC,1.98,4000
 Taysom Hill,QB,NO,2.19,6000
 Kaden Smith,TE,NYG,2.37,2500
 Robert Foster,WR,WSH,2.15,3000
-Devin Asiasi,TE,NE,2.21,2500
 Quez Watkins,WR,PHI,2.02,3000
 Noah Brown,WR,DAL,2.1,3000
 Blake Bell,TE,DAL,2.1,2500
 Van Jefferson,WR,LA,1.86,3000
-J.J. Taylor,RB,NE,1.23,4000
 James O'Shaughnessy,TE,JAC,2.11,2500
 Marcedes Lewis,TE,GB,1.82,2500
 Donald Parham Jr.,TE,LAC,1.76,2500
+Devin Asiasi,TE,NE,1.86,2500
 Devine Ozigbo,RB,JAC,2.19,4000
 Maxx Williams,TE,ARI,1.82,2500
 Vance McDonald,TE,PIT,1.8,2500
@@ -401,6 +400,7 @@ Colin Thompson,TE,CAR,0.11,2500
 De'Michael Harris,WR,IND,0.11,3000
 Malik Taylor,WR,GB,0.11,3000
 Reggie Gilliam,TE,BUF,0.1,2500
+J.J. Taylor,RB,NE,0.1,4000
 Jason Huntley,RB,PHI,0.11,4000
 Tyler Johnson,WR,TB,0.11,3000
 Nsimba Webster,WR,LA,0.11,3000
@@ -546,10 +546,10 @@ Cleveland D/ST,DST,CLE,9.21,3400
 Seattle D/ST,DST,SEA,8.69,3100
 Baltimore D/ST,DST,BAL,8.53,3800
 Arizona D/ST,DST,ARI,8.32,2900
-Tennessee D/ST,DST,TEN,7.7,3400
+Tennessee D/ST,DST,TEN,7.88,3400
 Indianapolis D/ST,DST,IND,7.28,3600
 New England D/ST,DST,NE,7.24,3000
-Miami D/ST,DST,MIA,7.18,3700
+Miami D/ST,DST,MIA,7.16,3700
 San Francisco D/ST,DST,SF,7.15,3100
 Tampa Bay D/ST,DST,TB,6.96,3000
 Minnesota D/ST,DST,MIN,6.92,2800
@@ -570,5 +570,5 @@ Houston D/ST,DST,HOU,4.27,2400
 Atlanta D/ST,DST,ATL,4.14,2300
 Jacksonville D/ST,DST,JAC,3.85,2000
 New York Jets D/ST,DST,NYJ,3.85,2100
-Detroit D/ST,DST,DET,3.39,2200
+Detroit D/ST,DST,DET,3.28,2200
 Carolina D/ST,DST,CAR,2.7,2200
