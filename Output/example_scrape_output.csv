@@ -21,7 +21,7 @@ Alex Smith,QB,WSH,13.2,5100
 Michael Thomas,WR,NO,19.57,6300
 Chris Carson,RB,SEA,14.89,5900
 Antonio Gibson,RB,WSH,14.15,5700
-Ronald Jones,RB,TB,13.44,5500
+Ronald Jones,RB,TB,13.46,5500
 James Conner,RB,PIT,13.53,5000
 A.J. Brown,WR,TEN,17.23,7000
 Mark Andrews,TE,BAL,16.02,5200
@@ -32,11 +32,11 @@ Terry McLaurin,WR,WSH,14.9,6300
 Marquise Brown,WR,BAL,13.94,5400
 Robert Woods,WR,LA,14.51,6200
 J.K. Dobbins,RB,BAL,9.7,6600
-Chris Godwin,WR,TB,13.1,7000
+Chris Godwin,WR,TB,13.12,7000
 John Brown,WR,BUF,12.22,4700
+Leonard Fournette,RB,TB,10.42,4500
 Jarvis Landry,WR,CLE,12.89,5800
-Leonard Fournette,RB,TB,10.41,4500
-Mike Evans,WR,TB,12.24,6500
+Mike Evans,WR,TB,12.26,6500
 Nyheim Hines,RB,IND,11.32,4700
 T.Y. Hilton,WR,IND,12.25,5100
 Corey Davis,WR,TEN,12,4800
@@ -45,7 +45,7 @@ JuJu Smith-Schuster,WR,PIT,12.82,5500
 Cooper Kupp,WR,LA,12.46,6000
 Zack Moss,RB,BUF,8.12,4600
 Gus Edwards,RB,BAL,8.18,4400
-Antonio Brown,WR,TB,11.43,6100
+Antonio Brown,WR,TB,11.45,6100
 Kareem Hunt,RB,CLE,9.33,4800
 Devin Singletary,RB,BUF,8.99,4300
 J.D. McKissic,RB,WSH,10.78,4900
@@ -121,8 +121,8 @@ D'Ernest Johnson,RB,CLE,0.81,4000
 Lee Smith,TE,BUF,1,2500
 Kenny Stills,WR,HOU,0.83,
 Michael Burton,RB,NO,0.84,
-Tyler Johnson,WR,TB,0.78,3000
 Ty Montgomery,RB,NO,0.79,4100
+Tyler Johnson,WR,TB,0.78,3000
 Antonio Gandy-Golden,WR,WSH,0.8,3000
 Lil'Jordan Humphrey,WR,NO,0.72,3000
 Isaiah Wright,WR,WSH,0.83,3000
@@ -154,7 +154,6 @@ D'Onta Foreman,RB,TEN,0.11,4000
 Tyler Kroft,TE,BUF,0.16,2500
 Senorise Perry,RB,TEN,0.11,4000
 Josh Hill,TE,NO,0.15,2500
-LeSean McCoy,RB,TB,0.11,4000
 Colby Parkinson,TE,SEA,0.09,2500
 De'Michael Harris,WR,IND,0.1,3000
 Marcus Baugh,TE,WSH,0.1,2500
@@ -201,6 +200,7 @@ Matt Barkley,QB,BUF,0,4400
 Geno Smith,QB,SEA,0,4500
 Nick Foles,QB,CHI,0,4100
 Blaine Gabbert,QB,TB,0,4300
+LeSean McCoy,RB,TB,0,4000
 Tampa Bay D/ST,DST,TB,7.71,3400
 New Orleans D/ST,DST,NO,7.61,3800
 Seattle D/ST,DST,SEA,7.14,2700
