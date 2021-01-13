@@ -1,8 +1,8 @@
 PLAYER,POSITION,TEAM,POINTS_DK,SALARY_DK
 Patrick Mahomes,QB,KC,33.74,8000
 Aaron Rodgers,QB,GB,28.5,6900
-Josh Allen,QB,BUF,24.56,7400
-Lamar Jackson,QB,BAL,21.38,7600
+Josh Allen,QB,BUF,24.67,7400
+Lamar Jackson,QB,BAL,21.23,7600
 Tyreek Hill,WR,KC,30.21,8000
 Davante Adams,WR,GB,32.52,8600
 Tom Brady,QB,TB,18.84,6300
@@ -13,18 +13,18 @@ Baker Mayfield,QB,CLE,16.27,5300
 Cam Akers,RB,LA,19.58,5700
 Nick Chubb,RB,CLE,16.2,6600
 Jared Goff,QB,LA,14.53,5200
-Stefon Diggs,WR,BUF,21.02,7300
+Stefon Diggs,WR,BUF,21.06,7300
 Michael Thomas,WR,NO,18.92,6700
+Devin Singletary,RB,BUF,13.45,4500
 Leonard Fournette,RB,TB,13.54,4900
-Devin Singletary,RB,BUF,13.37,4500
 Chris Godwin,WR,TB,14.81,6100
 Mike Evans,WR,TB,14.13,6400
 Aaron Jones,RB,GB,13.49,6800
-Mark Andrews,TE,BAL,13.39,5000
-J.K. Dobbins,RB,BAL,9.43,6000
+Mark Andrews,TE,BAL,13.41,5000
+J.K. Dobbins,RB,BAL,9.41,6000
 Marquise Brown,WR,BAL,13.06,5200
 Robert Woods,WR,LA,13.38,5900
-Cole Beasley,WR,BUF,13.02,4900
+Cole Beasley,WR,BUF,13.08,4900
 Antonio Brown,WR,TB,12.43,5400
 Allen Lazard,WR,GB,12.49,3900
 Kareem Hunt,RB,CLE,9.42,4800
@@ -32,7 +32,7 @@ Robert Tonyan,TE,GB,12.08,4200
 Jarvis Landry,WR,CLE,12.03,5600
 Sammy Watkins,WR,KC,11.61,4800
 Cooper Kupp,WR,LA,12.38,5300
-Gus Edwards,RB,BAL,7.67,4200
+Gus Edwards,RB,BAL,7.59,4200
 John Brown,WR,BUF,10.23,4600
 Latavius Murray,RB,NO,7.53,4300
 Rashard Higgins,WR,CLE,9.15,4100
@@ -105,16 +105,16 @@ LeSean McCoy,RB,TB,0.12,4000
 Justin Watson,WR,TB,0.1,3000
 Antony Auclair,TE,TB,0.1,2500
 Marvin Hall,WR,CLE,0.08,3000
+Andre Roberts,WR,BUF,0.09,3000
 Ja'Marcus Bradley,WR,CLE,0.08,3000
 James Proche,WR,BAL,0.08,3000
 Nsimba Webster,WR,LA,0.09,3000
 Stephen Carlson,TE,CLE,0.08,2500
 Johnny Mundt,TE,LA,0.08,2500
 Khadarel Hodge,WR,CLE,0.08,3000
-Chris Moore,WR,BAL,0.08,3000
 DeAndrew White,WR,BAL,0.08,3000
-Andre Roberts,WR,BUF,0.09,3000
 Dexter Williams,RB,GB,0.08,
+Chris Moore,WR,BAL,0.08,3000
 Tony Jones Jr.,RB,NO,0,
 John Wolford,QB,LA,0,4900
 Tyler Huntley,QB,BAL,0,4500
@@ -130,9 +130,9 @@ Matt Barkley,QB,BUF,0,4400
 Blaine Gabbert,QB,TB,0,4300
 Chad Henne,QB,KC,0,4800
 Green Bay D/ST,DST,GB,6.85,3900
-Baltimore D/ST,DST,BAL,5.86,2800
+Buffalo D/ST,DST,BUF,5.88,2900
 Kansas City D/ST,DST,KC,5.81,3600
-Buffalo D/ST,DST,BUF,5.81,2900
+Baltimore D/ST,DST,BAL,5.8,2800
 Los Angeles Rams D/ST,DST,LA,5.19,2600
 New Orleans D/ST,DST,NO,5.24,3300
 Cleveland D/ST,DST,CLE,4.33,2300
